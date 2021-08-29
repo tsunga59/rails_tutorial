@@ -7,7 +7,6 @@ tau_manifesto:
   content: "Check out the @tauday site by @mhartl: http://tauday.com"
   created_at: <%= 3.years.ago %>
   user: michael
-  
 
 cat_video:
   content: "Sad cats are sad: http://youtu.be/PKffm2uI4dk"
